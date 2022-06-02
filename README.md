@@ -14,4 +14,4 @@ You can run our program with the below command.
 python main.py
 ```
 
-Note that we used the psql database given by BiS332 course, so the database accessing method may have to changed. 
+Note that we used the psql database given by BiS332 course, so the database accessing method may have to be changed. 
